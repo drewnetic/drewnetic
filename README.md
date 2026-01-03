@@ -75,5 +75,5 @@ that solve real-world problems.
 ---
 
 ## 🐍 Contributions
-![snake svg](https://raw.githubusercontent.com/drewnetic/drewnetic/output/snake.svg#gh-light-mode-only)
-![snake svg](https://raw.githubusercontent.com/drewnetic/drewnetic/output/snake-dark.svg#gh-dark-mode-only)
+![snake](https://raw.githubusercontent.com/drewnetic/drewnetic/output/snake-dark.svg)
+
