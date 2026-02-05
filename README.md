@@ -75,5 +75,5 @@ that solve real-world problems.
 ---
 
 ## 🐍 Contributions
-![snake](https://raw.githubusercontent.com/drewnetic/drewnetic/output/snake-dark.svg)
+![My GitHub Game](game.gif)
 
